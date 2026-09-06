@@ -685,17 +685,22 @@
           "day": "Sat",
           "type": "long_run",
           "detail": "5 mi easy, conversational -- first real growth step since the wedding-week reset, ~17% up from last week's 6. (auto-adjusted from 7 mi)",
-          "status": "upcoming",
+          "status": "skipped",
           "duration_min": 53,
           "miles": 5.0,
-          "miles_planned": 7.0
+          "miles_planned": 7.0,
+          "note": "Rest day taken instead -- long run moved to Sunday. Also played pickleball Friday evening (bonus cross-training, within the 1-2x/wk cap)."
         },
         {
           "date": "2026-09-06",
           "day": "Sun",
-          "type": "rest",
-          "detail": "Rest -- walk + 10 min arch/calf mobility.",
-          "status": "upcoming"
+          "type": "long_run",
+          "detail": "5 mi easy, conversational (auto-adjusted from 7 mi). (Moved from Saturday.)",
+          "status": "completed",
+          "duration_min": 90,
+          "miles": 8.0,
+          "miles_planned": 7.0,
+          "note": "8 mi in 100% humidity, 8-10am, run-walk (1 min walk every 7 min), nose breathing throughout. Tough conditions but executed well. Pending Garmin sync for exact pace/HR."
         }
       ],
       "miles_target": 18.0
