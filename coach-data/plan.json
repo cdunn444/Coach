@@ -709,7 +709,7 @@
       "week": 10,
       "phase": "build",
       "focus": "First build-phase week -- quality day shifts to tempo/threshold and longer near-goal-pace reps, long run steps to 8.5 mi.",
-      "summary": "~20 mi target. This week's actual volume ran well over target (27 mi banked, mostly from bonus runs and the long-run swap), but this week's plan holds a normal progression rather than chasing that number -- the extra fitness is banked, not the new baseline.",
+      "summary": "~20 mi target. Last week's actual running volume was 20.04 mi (4+4+4+8.01) -- almost exactly on target, not the 27 mi the auto volume-guard flagged (that number was wrong, likely a week-boundary miscount pulling in the prior Sunday's run). Long run steps to 8.5 mi, a normal ~6% bump off last week's 8.",
       "sessions": [
         {
           "date": "2026-09-07",
