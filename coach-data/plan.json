@@ -45,7 +45,7 @@
       ]
     }
   ],
-  "current_week": 9,
+  "current_week": 10,
   "weeks": [
     {
       "week": 1,
@@ -704,7 +704,75 @@
         }
       ],
       "miles_target": 18.0
+    },
+    {
+      "week": 10,
+      "phase": "build",
+      "focus": "First build-phase week -- quality day shifts to tempo/threshold and longer near-goal-pace reps, long run steps to 8.5 mi.",
+      "summary": "~20 mi target. This week's actual volume ran well over target (27 mi banked, mostly from bonus runs and the long-run swap), but this week's plan holds a normal progression rather than chasing that number -- the extra fitness is banked, not the new baseline.",
+      "sessions": [
+        {
+          "date": "2026-09-07",
+          "day": "Mon",
+          "type": "easy_run",
+          "detail": "3.5 mi easy, conversational.",
+          "status": "upcoming",
+          "duration_min": 37,
+          "miles": 3.5
+        },
+        {
+          "date": "2026-09-08",
+          "day": "Tue",
+          "type": "strength",
+          "detail": "Gym B, 3 sets x 8-10: DB/trap-bar deadlift (light-moderate), DB overhead press, step-ups (DB) 10/leg, plank 2x40s. Tibialis raises 2x15-20.",
+          "status": "upcoming",
+          "duration_min": 32
+        },
+        {
+          "date": "2026-09-09",
+          "day": "Wed",
+          "type": "easy_run",
+          "detail": "3.5 mi easy.",
+          "status": "upcoming",
+          "duration_min": 37,
+          "miles": 3.5
+        },
+        {
+          "date": "2026-09-10",
+          "day": "Thu",
+          "type": "tempo_run",
+          "detail": "Pick one -- all are a completed workout: Option A (tempo) -- 1 mi easy + 18 min @ comfortably-hard (~9:05-9:20/mi) + 1 mi easy, ~4.25 mi total. Option B (longer reps) -- 1 mi easy warm-up, then 4 x 800m @ 9:10-9:32/mi (goal race pace) with 400m easy jog recovery, 1 mi easy cooldown, ~5 mi total -- clock-based departure works well here too (e.g. off every 6-7 min). Option C (easy) -- 4 mi easy.",
+          "status": "upcoming",
+          "duration_min": 42,
+          "miles": 4.0
+        },
+        {
+          "date": "2026-09-11",
+          "day": "Fri",
+          "type": "strength",
+          "detail": "Gym A, 3 sets x 8-10: goblet/DB squat, DB Romanian deadlift, walking lunges (DB) 10/leg, lat pulldown or DB row. Core: side plank 2x30s/side. Calf raise 2x15.",
+          "status": "upcoming",
+          "duration_min": 30
+        },
+        {
+          "date": "2026-09-12",
+          "day": "Sat",
+          "type": "long_run",
+          "detail": "8.5 mi easy, conversational -- modest step from last week's 8, not a jump from it. Watch the heat; run-walk if humidity's rough again.",
+          "status": "upcoming",
+          "duration_min": 90,
+          "miles": 8.5
+        },
+        {
+          "date": "2026-09-13",
+          "day": "Sun",
+          "type": "rest",
+          "detail": "Rest -- walk + 10 min arch/calf mobility.",
+          "status": "upcoming"
+        }
+      ],
+      "miles_target": 20.0
     }
   ],
-  "sketch": "Weeks 10-13 (build): quality day leans tempo/threshold and longer near-goal-pace reps (800m-1600m at 9:10-9:32/mi, clock-based departure as an option) over short sprints -- long run grows ~8 -> 8.5 -> 9 (down week, -30% volume) -> 9.5-10 mi. Weeks 14-15 (peak): highest volume, peak long run 10.5-12 mi with race-pace segments, quality stays optional. Week 16 (taper/race wk, Oct 19-25): volume -40-60%, short shakeout runs only, freshness over fitness. Race: Miami Beach Halloween Half, Sat Oct 24 \u2014 goal sub-2:05 (9:32/mi), stretch sub-2:00 (9:09/mi). Detail generated as each week approaches."
+  "sketch": "Weeks 11-13 (build, cont.): long run continues 9 -> down week (-30% volume, likely wk 12) -> 9.5-10 mi, quality day keeps leaning tempo/threshold and near-goal-pace reps (800m-1600m at 9:10-9:32/mi). Weeks 14-15 (peak): highest volume, peak long run 10.5-12 mi with race-pace segments, quality stays optional. Week 16 (taper/race wk, Oct 19-25): volume -40-60%, short shakeout runs only, freshness over fitness. Race: Miami Beach Halloween Half, Sat Oct 24 \u2014 goal sub-2:05 (9:32/mi), stretch sub-2:00 (9:09/mi). Detail generated as each week approaches."
 }
