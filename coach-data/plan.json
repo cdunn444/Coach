@@ -697,10 +697,10 @@
           "type": "long_run",
           "detail": "5 mi easy, conversational (auto-adjusted from 7 mi). (Moved from Saturday.)",
           "status": "completed",
-          "duration_min": 90,
-          "miles": 8.0,
+          "duration_min": 85,
+          "miles": 8.01,
           "miles_planned": 7.0,
-          "note": "8 mi in 100% humidity, 8-10am, run-walk (1 min walk every 7 min), nose breathing throughout. Tough conditions but executed well. Pending Garmin sync for exact pace/HR."
+          "note": "Garmin synced: 8.01 mi in 85 min, 10:36/mi avg, avg HR 160/max 182. 100% humidity, 8-10am, run-walk (1 min walk every 7 min), nose breathing throughout. Tough conditions but executed well."
         }
       ],
       "miles_target": 18.0
