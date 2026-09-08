@@ -312,3 +312,5 @@
 {"date": "2026-09-08", "kind": "nutrition", "desc": "pre-run: banana, 6g peanut butter", "kcal": 140, "protein_g": 3, "carbs_g": 28, "fat_g": 3.5}
 {"date": "2026-09-08", "kind": "nutrition", "desc": "breakfast: 1.5 slices sourdough, 1 egg, 2oz smoked salmon, 1 heaping scoop guacamole", "kcal": 365, "protein_g": 25, "carbs_g": 32, "fat_g": 15.5}
 {"date": "2026-09-08", "kind": "workout", "session_date": "2026-09-08", "type": "easy_run", "result": "completed", "source": "intervals.icu", "sync_id": "icu-i184520883", "planned": false, "name": "Miami-Dade County Running", "actual": "4.01 mi in 43 min", "duration_min": 43, "miles": 4.01, "avg_pace": "10:43/mi", "avg_hr": 146, "max_hr": 161, "active_kcal": 465}
+{"date": "2026-09-08", "kind": "nutrition", "desc": "lunch: 1.25 servings jasmine rice with bone broth, 5oz grilled boneless skinless chicken thighs, 1 serving roasted vegetables", "kcal": 435, "protein_g": 26, "carbs_g": 59, "fat_g": 10}
+{"date": "2026-09-08", "kind": "nutrition", "desc": "afternoon snack: TruBar protein bar", "kcal": 190, "protein_g": 12, "carbs_g": 22, "fat_g": 8}

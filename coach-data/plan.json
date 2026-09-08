@@ -727,9 +727,9 @@
           "type": "easy_run",
           "detail": "Unplanned 4 mi easy run happened instead of Gym B. Gym B moved to Sunday.",
           "status": "completed",
-          "duration_min": 42,
-          "miles": 4.0,
-          "note": "Pending Garmin sync for pace/HR."
+          "duration_min": 43,
+          "miles": 4.01,
+          "note": "Garmin synced: 4.01 mi in 43 min, 10:43/mi avg, avg HR 146/max 161."
         },
         {
           "date": "2026-09-09",
