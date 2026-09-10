@@ -745,9 +745,10 @@
           "day": "Thu",
           "type": "tempo_run",
           "detail": "Pick one -- all are a completed workout: Option A (tempo) -- 1 mi easy + 18 min @ comfortably-hard (~9:05-9:20/mi) + 1 mi easy, ~4.25 mi total. Option B (longer reps) -- 1 mi easy warm-up, then 4 x 800m @ 9:10-9:32/mi (goal race pace) with 400m easy jog recovery, 1 mi easy cooldown, ~5 mi total -- clock-based departure works well here too (e.g. off every 6-7 min). Option C (easy) -- 4 mi easy.",
-          "status": "upcoming",
-          "duration_min": 42,
-          "miles": 4.0
+          "status": "completed",
+          "duration_min": 53,
+          "miles": 5.0,
+          "note": "Went with Option B (4x800m/400m). Tough one -- stagnant, humid air. Pending Garmin sync for exact splits/HR."
         },
         {
           "date": "2026-09-11",
