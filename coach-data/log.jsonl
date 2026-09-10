@@ -315,3 +315,5 @@
 {"date": "2026-09-08", "kind": "nutrition", "desc": "lunch: 1.25 servings jasmine rice with bone broth, 5oz grilled boneless skinless chicken thighs, 1 serving roasted vegetables", "kcal": 435, "protein_g": 26, "carbs_g": 59, "fat_g": 10}
 {"date": "2026-09-08", "kind": "nutrition", "desc": "afternoon snack: TruBar protein bar", "kcal": 190, "protein_g": 12, "carbs_g": 22, "fat_g": 8}
 {"date": "2026-09-10", "kind": "nutrition", "desc": "pre-run: banana, 6g peanut butter", "kcal": 140, "protein_g": 3, "carbs_g": 28, "fat_g": 3.5}
+{"date": "2026-09-09", "kind": "adaptation", "action": "Wednesday's easy run skipped -- timing didn't work out. Life logistics, no other change; letting it go rather than making today's session harder to compensate.", "trigger": "user reported skip reason"}
+{"date": "2026-09-10", "kind": "nutrition", "desc": "breakfast: 2 slices Canyon GF bread, 2oz smoked salmon, 1 egg, 2 spoons guacamole", "kcal": 390, "protein_g": 25, "carbs_g": 35, "fat_g": 17.5}

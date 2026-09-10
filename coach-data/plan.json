@@ -736,9 +736,10 @@
           "day": "Wed",
           "type": "easy_run",
           "detail": "3.5 mi easy.",
-          "status": "upcoming",
+          "status": "skipped",
           "duration_min": 37,
-          "miles": 3.5
+          "miles": 3.5,
+          "note": "Skipped -- timing didn't work out."
         },
         {
           "date": "2026-09-10",
