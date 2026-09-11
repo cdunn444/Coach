@@ -754,10 +754,12 @@
         {
           "date": "2026-09-11",
           "day": "Fri",
-          "type": "strength",
-          "detail": "Gym A, 3 sets x 8-10: goblet/DB squat, DB Romanian deadlift, walking lunges (DB) 10/leg, lat pulldown or DB row. Core: side plank 2x30s/side. Calf raise 2x15.",
-          "status": "upcoming",
-          "duration_min": 30
+          "type": "easy_run",
+          "detail": "Unplanned 2 mi easy run happened instead of Gym A. Also playing pickleball tonight.",
+          "status": "completed",
+          "duration_min": 21,
+          "miles": 2.01,
+          "note": "Gym A let go this week rather than stacking a second strength session onto Sunday (which already has Gym B from Tuesday's swap). Garmin synced: 2.01 mi in 21 min, 10:26/mi avg, avg HR 149/max 162."
         },
         {
           "date": "2026-09-12",
