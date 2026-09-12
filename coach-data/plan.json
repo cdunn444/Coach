@@ -759,24 +759,25 @@
           "status": "completed",
           "duration_min": 21,
           "miles": 2.01,
-          "note": "Gym A let go this week rather than stacking a second strength session onto Sunday (which already has Gym B from Tuesday's swap). Garmin synced: 2.01 mi in 21 min, 10:26/mi avg, avg HR 149/max 162."
+          "note": "Gym A let go this week rather than stacking a second strength session onto Sunday (which already has Gym B from Tuesday's swap). Garmin synced: 2.01 mi in 21 min, 10:26/mi avg, avg HR 149/max 162. Also ran an extra mile Friday night before pickleball -- pending sync."
         },
         {
           "date": "2026-09-12",
           "day": "Sat",
-          "type": "long_run",
-          "detail": "8.5 mi easy, conversational -- modest step from last week's 8, not a jump from it. Watch the heat; run-walk if humidity's rough again.",
+          "type": "strength",
+          "detail": "Gym B, 3 sets x 8-10: DB/trap-bar deadlift (light-moderate), DB overhead press, step-ups (DB) 10/leg, plank 2x40s. Tibialis raises 2x15-20. (Moved from Tuesday -- ran instead that day -- then swapped with Sunday's long run.)",
           "status": "upcoming",
-          "duration_min": 90,
-          "miles": 8.5
+          "duration_min": 32
         },
         {
           "date": "2026-09-13",
           "day": "Sun",
-          "type": "strength",
-          "detail": "Gym B, 3 sets x 8-10: DB/trap-bar deadlift (light-moderate), DB overhead press, step-ups (DB) 10/leg, plank 2x40s. Tibialis raises 2x15-20. (Moved from Tuesday -- ran instead that day.)",
+          "type": "long_run",
+          "detail": "9 mi easy, conversational -- user opted to target 9 instead of the planned 8.5, given the extra mile banked Friday night. Still just a ~6% step from last week's actual, well within a safe range. Watch the heat; run-walk if humidity's rough.",
           "status": "upcoming",
-          "duration_min": 32
+          "duration_min": 96,
+          "miles": 9.0,
+          "miles_planned": 8.5
         }
       ],
       "miles_target": 20.0
